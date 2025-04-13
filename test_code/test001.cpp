@@ -1,8 +1,7 @@
-#include "iostream"
+#include "test001.h"
 using namespace std;
-
+#include "string"
 int main()
 {
-    cout<<"this is test!"<<endl;
     return 0;
 }
